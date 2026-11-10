@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import './base.css' layer(base);
+
+@layer base {
+  #app {
+    min-height: 100vh;
+  }
+
+  body {
+    background-color: var(--color-background);
+  }
+}
