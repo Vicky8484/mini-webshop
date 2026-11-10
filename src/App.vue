@@ -23,7 +23,7 @@ const ourProducts: Product[] = [
     price: 199,
     description:
       "En sød, brun sidde-bamse, der er klar til at blive din nye ven.",
-    inStock: false,
+    inStock: true,
   },
   {
     id: 3,
